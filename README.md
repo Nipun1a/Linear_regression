@@ -1,3 +1,4 @@
-# Linear_regression
+Linear Regression From Scratch
 
-it is the building of the linear regression from scratch
+A simple and complete implementation of Linear Regression using only Python and NumPy — no scikit-learn or ML libraries.
+This project demonstrates how regression works internally through gradient descent, normal equation, cost functions, and prediction.
